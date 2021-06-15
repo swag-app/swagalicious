@@ -6,6 +6,7 @@ const Header = () => {
 
     return <div>
         I'm a header
+        <button onClick={login}>Login</button>
     </div>
 }
 
