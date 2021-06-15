@@ -7,11 +7,11 @@
 
 ### STEPS FOR PUSHING A BRANCH TO MAIN
 - creating a new branch
-    - <code>git branch <branch name></code>
+    - <code>git branch `<branch name>` </code>
 - switching to different branches
-    - <code>git checkout <branch name></code>
+    - <code>git checkout `<branch name>` </code>
 - deleting an old branch
-    - <code> git branch -d <branch name></code>
+    - <code> git branch -d `<branch name>` </code>
 - Order for merging/working on different branch
     - create a new branch on your machine
     - code! commit and push to your branch as often as you want
